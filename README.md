@@ -49,9 +49,8 @@ Com esta API([pokeapi v2](https://pokeapi.co/docsv2/#)) em mãos, precisamos que
 
 # Tecnologias que deve estar presentes no teste
 
-- VueJS
+- VueJS ou Jquery
 - Bootstrap
-- Jquery
 
 **Não necessário mas se tiver será um diferencial**
 
