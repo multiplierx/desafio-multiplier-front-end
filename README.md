@@ -64,6 +64,7 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 2. Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
 3. Você seguiu as instruções de envio do desafio?
 4. Ter uma aparência bonita
+5. Altamente responsivo
 
 Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação funcional a partir da estrutura de seu projeto.
 
