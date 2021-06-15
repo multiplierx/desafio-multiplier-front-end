@@ -66,7 +66,7 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 4. Ter uma aparência bonita
 5. Altamente responsivo
 
-Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação funcional a partir da estrutura de seu projeto.
+Adicionalmente, tentaremos verificar sua experiência com programação funcional a partir da estrutura de seu projeto.
 
 ---
 
