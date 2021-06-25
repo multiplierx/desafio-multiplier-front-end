@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://multiplier.com.br/assets/multiplier.svg" width="320" alt="Nest Logo" />
+</p>
+
 # Desafio Front-end Multiplier
 
 O intuito deste teste é avaliar seus conhecimentos técnicos de front-end.
@@ -47,7 +52,7 @@ Com esta API([pokeapi v2](https://pokeapi.co/docsv2/#)) em mãos, precisamos que
 4. Ser escrita usando algum framework específico (mas não há nada errado em usá-los também, use o que achar melhor).
 5. Testes unitarios (pontos extras se fizer)
 
-# Tecnologias que deve estar presentes no teste
+# Tecnologias que deve estar presentes no desafio
 
 - VueJS ou Jquery
 - Bootstrap
