@@ -54,7 +54,7 @@ Com esta API([pokeapi v2](https://pokeapi.co/docsv2/#)) em mãos, precisamos que
 
 # Tecnologias que deve estar presentes no desafio
 
-- VueJS ou Jquery
+- VueJS
 - Bootstrap
 
 **Não necessário mas se tiver será um diferencial**
